@@ -1,0 +1,3 @@
+~/Documents/repositories/neetcode/readme.org
+~/Documents/repositories/neetcode/sample.org
+/home/akshaya/.emacs.d/org/agenda-files.org
